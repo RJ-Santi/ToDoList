@@ -1,0 +1,25 @@
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #222222;
+  }
+}
+
+body {
+  text-align: center;
+}
+
+h1 {
+  color: #B1D0E0;
+}
+
+h2 {
+  color: #6998AB;
+}
+
+li {
+  color: #B8E4F0;
+}
+
+#list {
+  display: none;
+}
